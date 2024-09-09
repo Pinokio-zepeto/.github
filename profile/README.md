@@ -14,14 +14,11 @@ Notion : [링크](https://fluffy-smell-11f.notion.site/SSAFY-PJT-5cf6c9977a6c460
 
 ## 팀원 및 역할
 
-| 이름   | 역할  | 내용                      |
-| ------ | ----- | ------------------------- |
-| 김준우 | FE    | 프론트엔드 개발           |
-| 문재성 | FE    | 프론트엔드 개발, Openvidu |
-| 이상무 | FE    | 프론트엔드 개발           |
-| 전용수 | BE    | 백엔드 개발               |
-| 정연서 | BE    | 백앤드 개발, Openvidu     |
-| 최장우 | Infra | CI/CD, Openvidu           |
+| 김준우 | 문재성 | 이상무 | 전용수 | 정연서 | 최장우 |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|Frontend | Frontend | Frontend | Backend | Backend | Infra |
+|[@rlawnsdn](https://github.com/orgs/ssafy-common-project/people/rlawnsdn)|[whereisawedhii](https://github.com/orgs/ssafy-common-project/people/whereisawedhii)|[sangmu0502](https://github.com/orgs/ssafy-common-project/people/sangmu0502)|[@sheisalice606](https://github.com/sheisalice606)|[@yeondori](https://github.com/orgs/ssafy-common-project/people/yeondori)|[@choijw1004](https://github.com/orgs/ssafy-common-project/people/choijw1004)|
+|<img src="https://avatars.githubusercontent.com/u/92549578?v=4" width="120" height="150">|<img src="https://avatars.githubusercontent.com/u/156386879?s=96&v=4" width="120" height="150">|<img src="https://avatars.githubusercontent.com/u/92861899?s=64&v=4" width="120" height="150">|<img src="https://avatars.githubusercontent.com/u/77563691?v=4" width="120" height="150">|<img src="https://avatars.githubusercontent.com/u/93027942?s=96&v=4" width="120" height="150">|<img src="https://avatars.githubusercontent.com/u/117329752?v=4" width="120" height="150">|
 
 ## 기술 스택
 
