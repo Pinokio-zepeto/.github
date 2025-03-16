@@ -65,4 +65,5 @@ Notion : [링크](https://fluffy-smell-11f.notion.site/SSAFY-PJT-5cf6c9977a6c460
 ## 기술적 고민
 ### [FE](https://github.com/ssafy-common-project/frontend)
 ### [BE](https://github.com/ssafy-common-project/backend)
+### [DevOps](https://github.com/choijw1004/Pinokio)
 ### [STUDY](https://github.com/ssafy-common-project/study) 
